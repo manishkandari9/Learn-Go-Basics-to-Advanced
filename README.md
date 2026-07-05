@@ -539,6 +539,10 @@ GOPATH = /home/<username>/go
 This marks the official start of your Go learning journey.  
 Let's continue building — step by step.
 
+normal := "Line 1\nLine 2"        // \n ko escape samjhega
+
+raw := `Line 1
+Line 2`                            // as-is print hoga, backtick = raw string
 
 
 ### 🔔 New topics + daily content updates will be added automatically.
